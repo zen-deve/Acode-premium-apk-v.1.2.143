@@ -1,9 +1,8 @@
 # Acode-premium-apk-v.1.2.143
 
-![Acode](acode.png)
+<img src="https://moddroid.com/wp-content/uploads/2020/12/acode-powerful-code-editor-mod-fullpaid-moddroid.png" width="200">
 
 Acode adalah editor kode dan IDE web yang ringan namun kuat untuk android. Anda dapat menggunakan editor ini untuk mengedit HTML, JavaScript, teks.
-
 Anda dapat membuat situs web, menjalankan situs web di browser dan melihat kesalahan atau log di konsol.
 Juga edit segala jenis file sumber seperti, python, CSS, html, java, JavaScript, Dart dll.
 
