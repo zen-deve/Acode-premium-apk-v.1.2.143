@@ -52,6 +52,6 @@ Juga edit segala jenis file sumber seperti, python, CSS, html, java, JavaScript,
 <p>
         <a href="https://fb.me/zendev.rf.gd" target="blank"><img src="https://img.shields.io/badge/Zen Dev-30302f?style=flat&logo=facebook" /></a>
         <a href="https://instagram.com/zen_dev.official" target="blank"><img src="https://img.shields.io/badge/Zen Dev-30302f?style=flat&logo=instagram" /></a>
-        <a href="https://www.zen-dev.rf.gd" target="blank"><img src="https://img.shields.io/badge/https://zen-dev.rf.gd-30302f?style=flat&logo=blogger" /></a>
+        <a href="https://zendeve.000webhostapp.com" target="blank"><img src="https://img.shields.io/badge/https://zen-dev.rf.gd-30302f?style=flat&logo=blogger" /></a>
         <a href="https://wa.me/6289530639515" target="blank"><img src="https://img.shields.io/badge/089530639515-30302f?style=flat&logo=whatsapp" /></a>
 </p>
